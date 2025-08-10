@@ -1,0 +1,48 @@
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.exe.config
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.exe
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.pdb
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.CustomerForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.NewAccount.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Properties.Resources.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.StaffForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Start.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.csproj.GenerateResource.Cache
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.exe
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.pdb
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Profile.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Favourites.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.BasketForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Shops.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Checkout.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Orders.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.OrderEdit.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.StaffOrders.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Inventory.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.EditProduct.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Profits.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\App Design\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Records.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.exe.config
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.exe
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.pdb
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.exe
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\bin\Debug\Comic Book Store.pdb
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Records.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Inventory.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Profits.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.StaffOrders.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.BasketForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Checkout.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.CustomerForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.EditProduct.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Favourites.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.NewAccount.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.OrderEdit.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Orders.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Profile.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Properties.Resources.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Shops.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.StaffForm.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic_Book_Store.Start.resources
+C:\Users\Nicole\Documents\Uni work\Year 2\Term 1\App Design\Assessment\Comic Book Store\Comic Book Store\obj\Debug\Comic Book Store.csproj.GenerateResource.Cache
