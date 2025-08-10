@@ -1,6 +1,7 @@
 # Comic-Book-Store-CSharp
 
 As part of my BSC Computing (Hons) second year coursework for the Application Design module, we were tasked to create a C# desktop application that would simulate the running of a comic book store.
+All the source code can be found within the `Comic Book Store` folder.
 
 ## Overview
 
